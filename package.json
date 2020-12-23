@@ -1,0 +1,17 @@
+{
+  "name": "fakelicensegen",
+  "version": "1.0.0",
+  "description": "idfk",
+  "main": "index.js",
+  "dependencies": {
+    "random": "^2.2.0",
+    "randomstring": "^1.1.5",
+    "discord.js": "^12.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ssmidge",
+  "license": "ISC"
+}
